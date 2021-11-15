@@ -1,5 +1,6 @@
 ﻿using System;
-using Logica.EstruturaSequencial;
+//using Logica.EstruturaSequencial;
+using Logica.EstruturaCondicional;
 
 namespace Logica
 {
@@ -12,7 +13,9 @@ namespace Logica
             //new Exercicio3();
             //new Exercicio4();
             //new Exercicio5();
-            new Exercicio6();
+            //new Exercicio6();
+            //new Exercicio7();
+            new Exercicio8();
         }
     }
 }

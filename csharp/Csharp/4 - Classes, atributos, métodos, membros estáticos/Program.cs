@@ -1,5 +1,6 @@
 ﻿//using Primeiros_Exercicios;
-using Exercicios_Fixacao;
+//using Exercicios_Fixacao;
+using Membros_Estaticos;
 
 namespace Classes
 {
@@ -9,7 +10,8 @@ namespace Classes
         {
             //new Exercicio1();
             //new Exercicio2();
-            new Exercicio3 ();
+            //new Exercicio3 ();
+            new ExercicioFixacao();
         }
     }
 }

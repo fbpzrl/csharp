@@ -14,3 +14,11 @@
 - Importações definem as bibliotecas (internas ou externas) que nossa aplicação irá utilizar
 - O using é usado no começo do programa (boa prática)
 - Serve para organizar o código em pastas e namespaces (principalmente em grandes projetos)
+
+## Variáveis
+- É algo utilizado para armazenar informações que podem mudar
+- É possível informar um valor já na criação da variável. Se não for informado, o valor padrão será aplicado
+- Informar primeiro o Tipo da Variável antes do nome
+- O tipo var é um tipo genérico onde cabe qualquer valor. Diferente dos tipos primitivos, o tipo var precisa ser inicializado com algum valor
+- Não começar com números
+- A primeira letra é SEMPRE minúscula. Quando for um nome composto, usar padrão camelCase

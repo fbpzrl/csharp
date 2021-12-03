@@ -62,8 +62,8 @@
 - Também conhecidos como <strong>built-in types</strong>
 - São chamados de Tipos de Valor (armazenam o valor, e não uma referência para um item na memória)
 - São classificados em:
---- Tipos Simples (Simple Types)
---- Enumeradores (Enums)
---- Estruturas (Structs)
---- Tipos Nulos (Nullable Types)
+  - Tipos Simples (Simple Types)
+  - Enumeradores (Enums)
+  - Estruturas (Structs)
+  - Tipos Nulos (Nullable Types)
 - Cada tipo possui uma capacidade

@@ -1,6 +1,9 @@
 # Conceitos de C#
+
 &nbsp;
+
 ## Namespace
+
 - Namespaces são divisões lógicas
 - Não pode haver duas classes com o mesmo nome no mesmo Namespace
 - Normalmente o nome do Namespace é o nome da pasta onde o arquivo está
@@ -9,26 +12,43 @@
 - O Namespace pode ser reutilizado (estar presente em diversos arquivos)
 - O nome do Namespace deve começar com letra maiúscula e deve-se evitar usar caracteres especiais como traços, acentos e outros
 - Durante a execução todos os arquivos do C# são unificados, ou seja, todos os arquivos ficam em uma única DLL. As pastas são ignoradas, sendo considerada somente a divisão lógica (Namespaces).
-&nbsp;
+  &nbsp;
+
 ## Using
+
 - Importações definem as bibliotecas (internas ou externas) que nossa aplicação irá utilizar
 - O using é usado no começo do programa (boa prática)
 - Serve para organizar o código em pastas e namespaces (principalmente em grandes projetos)
-&nbsp;
+  &nbsp;
+
 ## Variáveis
+
 - É algo utilizado para armazenar informações que podem mudar
 - É possível informar um valor já na criação da variável. Se não for informado, o valor padrão será aplicado
 - Informar primeiro o Tipo da Variável antes do nome
 - O tipo var é um tipo genérico onde cabe qualquer valor. Diferente dos tipos primitivos, o tipo var precisa ser inicializado com algum valor
 - Não começar com números
 - A primeira letra é SEMPRE minúscula. Quando for um nome composto, usar padrão camelCase
-&nbsp;
+  &nbsp;
+
 ## Constantes
+
 - É algo utilizado para armazenar informações que não podem mudar
 - Usa a palavra reservada const
 - Define-se a constante e em seguida o tipo
 - Precisa ser inicializada com algum valor
 - São mais otimizadas que as variáveis
 - Recomendado usar frequentemente
-- Nomes de constantes são com todas as letras maiúsculas, separadas por "_" (Convenção)
-&nbsp;
+- Nomes de constantes são com todas as letras maiúsculas, separadas por "\_" (Convenção)
+  &nbsp;
+
+## Comentários
+
+```
+// Comentário em uma linha
+/*
+  Comentário em várias
+  linhas
+*/
+/// Notação XML (Metadata)
+```

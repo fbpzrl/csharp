@@ -1,9 +1,7 @@
 # Conceitos de C#
-
 &nbsp;
 
 ## Namespace
-
 - Namespaces são divisões lógicas
 - Não pode haver duas classes com o mesmo nome no mesmo Namespace
 - Normalmente o nome do Namespace é o nome da pasta onde o arquivo está
@@ -15,14 +13,12 @@
   &nbsp;
 
 ## Using
-
 - Importações definem as bibliotecas (internas ou externas) que nossa aplicação irá utilizar
 - O using é usado no começo do programa (boa prática)
 - Serve para organizar o código em pastas e namespaces (principalmente em grandes projetos)
   &nbsp;
 
 ## Variáveis
-
 - É algo utilizado para armazenar informações que podem mudar
 - É possível informar um valor já na criação da variável. Se não for informado, o valor padrão será aplicado
 - Informar primeiro o Tipo da Variável antes do nome
@@ -32,7 +28,6 @@
   &nbsp;
 
 ## Constantes
-
 - É algo utilizado para armazenar informações que não podem mudar
 - Usa a palavra reservada const
 - Define-se a constante e em seguida o tipo
@@ -43,7 +38,6 @@
   &nbsp;
 
 ## Comentários
-
 ```
 // Comentário em uma linha
 
@@ -54,11 +48,9 @@
 
 /// Notação XML (Metadata)
 ```
-
 &nbsp;
 
 ## Tipos Primitivos
-
 - Também conhecidos como <strong>built-in types</strong>
 - São chamados de Tipos de Valor (armazenam o valor, e não uma referência para um item na memória)
 - São classificados em:
@@ -67,3 +59,10 @@
   - Estruturas (Structs)
   - Tipos Nulos (Nullable Types)
 - Cada tipo possui uma capacidade
+&nbsp;
+
+## System
+- No .NET tudo deriva de um tipo base chamado System
+&nbsp;
+
+

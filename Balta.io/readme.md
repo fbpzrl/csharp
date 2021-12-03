@@ -48,7 +48,6 @@
 
 /// Notação XML (Metadata)
 ```
-&nbsp;
 
 ## Tipos Primitivos
 - Também conhecidos como <strong>built-in types</strong>

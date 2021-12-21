@@ -68,5 +68,15 @@
 - Significa vazio
 - Todo tipo, primitivo ou complexo, pode receber o valor null
 - Para marcar um tipo como nullable, basta colocar um interrogação na frente do tipo (ex: int? idade = null)
+&nbsp;
 
+## Parse
+- Método presente em todo tipo primitivo
+- Método usado para converter um caracter ou string para um tipo qualquer (int, double etc)
+&nbsp;
+
+## Convert
+- Similar ao Parse, porém, permite converter vários tipos de valor (não apenas string)
+- Enquanto o Parse é um método, o Convert é uma classe
+- Devemos informar o tipo na chamada da conversão (ex: int inteiro = Convert.ToInt32("100");)
 

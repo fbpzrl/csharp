@@ -64,4 +64,9 @@
 - No .NET tudo deriva de um tipo base chamado System
 &nbsp;
 
+## Nullable Types
+- Significa vazio
+- Todo tipo, primitivo ou complexo, pode receber o valor null
+- Para marcar um tipo como nullable, basta colocar um interrogação na frente do tipo (ex: int? idade = null)
+
 

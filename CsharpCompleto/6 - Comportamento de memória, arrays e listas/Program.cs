@@ -7,7 +7,8 @@ namespace Secao06
         static void Main(string[] args)
         {
             //new ExercicioFixacao1();
-            new ExercicioFixacao2();
+            //new ExercicioFixacao2();
+            new ExercicioResolvido();
         }
     }
 }

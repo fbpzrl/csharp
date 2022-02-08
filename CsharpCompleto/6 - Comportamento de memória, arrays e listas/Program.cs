@@ -8,7 +8,8 @@ namespace Secao06
         {
             //new ExercicioFixacao1();
             //new ExercicioFixacao2();
-            new ExercicioResolvido();
+            //new ExercicioResolvido();
+            new ExercicioFixacao3();
         }
     }
 }

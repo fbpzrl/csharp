@@ -46,11 +46,6 @@ namespace Secao09.Exercicios
 
             Console.WriteLine("ORDER SUMARY:");
             Console.WriteLine(order);
-            Console.WriteLine("Order items:");
-            foreach(OrderItem item in order.Items)
-            {
-                Console.WriteLine(item);
-            }
         }
     }
 }

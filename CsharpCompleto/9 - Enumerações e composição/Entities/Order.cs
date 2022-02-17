@@ -58,6 +58,14 @@ namespace Secao09.Entities
             sb.Append(Client.BirthDate.ToString("dd/MM/yyyy"));
             sb.Append(") - ");
             sb.AppendLine(Client.Email);
+            sb.AppendLine("Order items:");
+            foreach (OrderItem item in Items)
+            {
+                if (item != null)
+                {
+                    sb.AppendLine(item.ToString());
+                }
+            }
 
             return sb.ToString();
         }

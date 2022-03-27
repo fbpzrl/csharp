@@ -1,4 +1,5 @@
 ﻿using Secao09.Entities.Enums;
+using System.Globalization;
 using System.Text;
 
 namespace Secao09.Entities
@@ -66,6 +67,9 @@ namespace Secao09.Entities
                     sb.AppendLine(item.ToString());
                 }
             }
+            sb.AppendLine();
+            sb.Append("Total price: $");
+            sb.AppendLine(Total().ToString("F2", CultureInfo.InvariantCulture));
 
             return sb.ToString();
         }

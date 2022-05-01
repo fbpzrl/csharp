@@ -1,2 +1,13 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using Secao10.Exercicios;
+
+namespace Secao10
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            new ExercicioResolvido_Heranca();
+            //new ExercicioFixacao_Polimorfismo();
+        }
+    }
+}

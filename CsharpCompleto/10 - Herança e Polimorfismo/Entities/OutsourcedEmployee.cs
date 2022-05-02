@@ -12,9 +12,6 @@ namespace Secao10.Entities
         public OutsourcedEmployee(double additionalCharge, string name, int hours, double valuePerHour) : base(name, hours, valuePerHour)
         {
             AdditionalCharge = additionalCharge;
-            Name = name;
-            Hours = hours;
-            ValuePerHour = valuePerHour;
         }
 
         public override double Payment()

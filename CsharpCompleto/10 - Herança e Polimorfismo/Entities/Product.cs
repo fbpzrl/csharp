@@ -1,6 +1,7 @@
 ﻿
+using System.Globalization;
 
-namespace Secao09.Entities
+namespace Secao10.Entities
 {
     class Product
     {
@@ -10,15 +11,16 @@ namespace Secao09.Entities
         public Product()
         {
         }
+
         public Product(string name, double price)
         {
             Name = name;
             Price = price;
         }
 
-        public string PriceTag()
+        public virtual string PriceTag()
         {
-            return "";
+            return Name + " $ " + Price.ToString("F2", CultureInfo.InvariantCulture);
         }
     }
 }

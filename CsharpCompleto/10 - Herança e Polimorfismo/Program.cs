@@ -6,8 +6,8 @@ namespace Secao10
     {
         static void Main(string[] args)
         {
-            new ExercicioResolvido_Heranca();
-            //new ExercicioFixacao_Polimorfismo();
+            //new ExercicioResolvido_Heranca();
+            new ExercicioFixacao_Polimorfismo();
         }
     }
 }

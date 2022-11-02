@@ -1,12 +1,13 @@
 ﻿using System;
+using Secao03.Exercicios;
 
-namespace RevisaoCsharp
+namespace Secao3
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            new ExercicioFixacao1();
         }
     }
 }

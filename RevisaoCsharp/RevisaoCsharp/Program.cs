@@ -8,7 +8,8 @@ namespace Secao3
         static void Main(string[] args)
         {
             //new ExercicioFixacao1();
-            new EstruturaSequencial1();
+            //new EstruturaSequencial1();
+            new EstruturaSequencial2();
         }
     }
 }

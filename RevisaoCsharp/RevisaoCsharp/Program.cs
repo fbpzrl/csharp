@@ -9,7 +9,7 @@ namespace Secao3
         {
             //new ExercicioFixacao1();
             //new EstruturaSequencial1();
-            new EstruturaSequencial2();
+            //new EstruturaSequencial2();
         }
     }
 }

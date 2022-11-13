@@ -5,6 +5,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        new Exercicio1();
+        //new Exercicio1();
+        new Exercicio2();
     }
 }

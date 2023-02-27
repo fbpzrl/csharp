@@ -8,4 +8,14 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Exercicios\" />
+    <None Remove="Entities\" />
+    <None Remove="Entities\Exceptions\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Exercicios\" />
+    <Folder Include="Entities\" />
+    <Folder Include="Entities\Exceptions\" />
+  </ItemGroup>
 </Project>

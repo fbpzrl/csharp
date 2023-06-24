@@ -28,6 +28,8 @@ namespace Secao04.Exercicios
             Console.WriteLine();
 
             Console.WriteLine("Salário médio = " + ((funcionario1.Salario + funcionario2.Salario) / 2).ToString("F2", CultureInfo.InvariantCulture));
+
+            Console.ReadKey();
         }
     }
 }

@@ -35,6 +35,7 @@ namespace Secao04.Exercicios
                 Console.WriteLine("Pessoa mais velha: " + pessoa2.Nome);
             }
 
+            Console.ReadKey();
         }
     }
 }

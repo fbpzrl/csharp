@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10 - Herança e Polimorfism
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11 - Tratamento de exceções", "11 - Tratamento de exceções\11 - Tratamento de exceções.csproj", "{F7501AD3-1A9F-4FC4-96BB-0364313504A9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14 - Interfaces", "14 - Interfaces\14 - Interfaces.csproj", "{6B0ADED4-2305-4B95-8583-9528048B62E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{F7501AD3-1A9F-4FC4-96BB-0364313504A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7501AD3-1A9F-4FC4-96BB-0364313504A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7501AD3-1A9F-4FC4-96BB-0364313504A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B0ADED4-2305-4B95-8583-9528048B62E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B0ADED4-2305-4B95-8583-9528048B62E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B0ADED4-2305-4B95-8583-9528048B62E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B0ADED4-2305-4B95-8583-9528048B62E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

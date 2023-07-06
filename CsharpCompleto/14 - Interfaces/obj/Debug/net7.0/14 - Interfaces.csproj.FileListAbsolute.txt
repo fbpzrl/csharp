@@ -1,0 +1,15 @@
+/Users/fabio/Desktop/Repositories/csharp/CsharpCompleto/14 - Interfaces/bin/Debug/net7.0/14 - Interfaces
+/Users/fabio/Desktop/Repositories/csharp/CsharpCompleto/14 - Interfaces/bin/Debug/net7.0/14 - Interfaces.deps.json
+/Users/fabio/Desktop/Repositories/csharp/CsharpCompleto/14 - Interfaces/bin/Debug/net7.0/14 - Interfaces.runtimeconfig.json
+/Users/fabio/Desktop/Repositories/csharp/CsharpCompleto/14 - Interfaces/bin/Debug/net7.0/14 - Interfaces.dll
+/Users/fabio/Desktop/Repositories/csharp/CsharpCompleto/14 - Interfaces/bin/Debug/net7.0/14 - Interfaces.pdb
+/Users/fabio/Desktop/Repositories/csharp/CsharpCompleto/14 - Interfaces/obj/Debug/net7.0/14 - Interfaces.csproj.AssemblyReference.cache
+/Users/fabio/Desktop/Repositories/csharp/CsharpCompleto/14 - Interfaces/obj/Debug/net7.0/14 - Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fabio/Desktop/Repositories/csharp/CsharpCompleto/14 - Interfaces/obj/Debug/net7.0/14 - Interfaces.AssemblyInfoInputs.cache
+/Users/fabio/Desktop/Repositories/csharp/CsharpCompleto/14 - Interfaces/obj/Debug/net7.0/14 - Interfaces.AssemblyInfo.cs
+/Users/fabio/Desktop/Repositories/csharp/CsharpCompleto/14 - Interfaces/obj/Debug/net7.0/14 - Interfaces.csproj.CoreCompileInputs.cache
+/Users/fabio/Desktop/Repositories/csharp/CsharpCompleto/14 - Interfaces/obj/Debug/net7.0/14 - Interfaces.dll
+/Users/fabio/Desktop/Repositories/csharp/CsharpCompleto/14 - Interfaces/obj/Debug/net7.0/refint/14 - Interfaces.dll
+/Users/fabio/Desktop/Repositories/csharp/CsharpCompleto/14 - Interfaces/obj/Debug/net7.0/14 - Interfaces.pdb
+/Users/fabio/Desktop/Repositories/csharp/CsharpCompleto/14 - Interfaces/obj/Debug/net7.0/14 - Interfaces.genruntimeconfig.cache
+/Users/fabio/Desktop/Repositories/csharp/CsharpCompleto/14 - Interfaces/obj/Debug/net7.0/ref/14 - Interfaces.dll
